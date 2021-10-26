@@ -1,0 +1,34 @@
+body {
+    /* background-color: #778ba1; */
+    background-color: #324754;
+}
+h1 {
+    font-family: Calibri;
+    color: white;
+    background-color: #1e2336;
+    padding-left: 10px;
+}
+h2 {
+    font-family: Calibri;
+    color: white;
+    padding-left: 10px;
+}
+p {
+    font-family: Calibri;
+    color: white;
+    padding-left: 10px;
+}
+li {
+    font-family: Calibri;
+    color: white
+}
+img {
+    border: 3px solid #555;
+}
+a {
+    color: white;
+}
+
+hr {
+    color: white;
+}
